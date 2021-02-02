@@ -1,9 +1,9 @@
-# upload-it
+# Upload-It
 
 Upload your website build or any directory you want to, to your Server via SFTP with one command.
 
 
-#How to use:
+# How to use:
 
 Edit the config.ini file, use the example in it.
 
